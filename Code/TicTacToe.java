@@ -3,7 +3,7 @@
  * in Java, with an artificial intelligence using
  * depth first search.
  * 
- * @credit : Ofek Gila
+ * @credit : Sofyan
  */
 
 import java.util.Scanner;
